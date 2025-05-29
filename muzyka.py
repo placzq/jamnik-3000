@@ -1,5 +1,5 @@
 import pygame
-
+#MUZA
 def graj_muzyke(sciezka, zapetlenie=True, glosnosc=0.5):
     pygame.mixer.music.load(sciezka)
     pygame.mixer.music.set_volume(glosnosc)
