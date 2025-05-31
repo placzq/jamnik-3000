@@ -23,15 +23,23 @@ Zbieraj owoce, unikaj kolizji i baw się dobrze przy relaksującej muzyce.
 
 
 ## Struktura projektu
-gra/
+
 ├── main.py
+
 ├── gra.py
+
 ├── gracz.py
+
 ├── owoc.py
+
 ├── plansza.py
+
 ├── przycisk.py
+
 ├── muzyka.py
+
 ├── assets/ # Grafiki, czcionki i dźwięki
+
 └── README.md
 
 ## Zrzuty ekranu
